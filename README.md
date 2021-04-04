@@ -1,5 +1,5 @@
 -----------#####----------------
-                installation
+installation
 
 pkg install python3
 
